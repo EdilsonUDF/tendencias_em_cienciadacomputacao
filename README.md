@@ -1,3 +1,3 @@
 # tendencias_em_cienciadacomputacao
 
-Atividades relacionada a diciplina
+Atividades relacionadas a diciplina
