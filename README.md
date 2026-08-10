@@ -1,3 +1,3 @@
 # tendencias_em_cienciadacomputacao
 
-Atividades relacionadas a diciplina
+Atividades relacionadas à disciplina de Tendências em Ciência da Computação.
