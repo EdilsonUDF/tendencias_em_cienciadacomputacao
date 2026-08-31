@@ -463,13 +463,7 @@ A IA pode ajudar bastante no desenvolvimento de um projeto, na análise de códi
 
 A responsabilidade continua sendo do profissional que está utilizando a ferramenta. A IA pode ajudar durante o processo, mas a decisão final precisa passar por uma análise humana e crítica.
 
-## 14. Declaração de uso de Inteligência Artificial
-
-Em conformidade com as boas práticas de transparência acadêmica, foi utilizada uma ferramenta de IA generativa como apoio na criação, análise e refinamento dos prompts apresentados neste documento.
-
-## 15. Referências
-
-OPENAI. *ChatGPT*. 2026. Ferramenta de inteligência artificial generativa utilizada como apoio na elaboração, análise e refinamento dos prompts.
-
+## 14. Link
+https://github.com/EdilsonUDF/tendencias_em_cienciadacomputacao.git
 ```
 ```
